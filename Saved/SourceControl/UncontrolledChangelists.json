@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/denis/Documents/Unreal Projects/PR_57/Content/NewBlueprint.uasset",
+				"C:/Users/denis/Documents/Unreal Projects/PR_57/Content/NewMap.umap",
+				"C:/Users/denis/Documents/Unreal Projects/PR_57/Content/BP_Light.uasset",
+				"C:/Games/Epic Games/UE_5.3/Engine/Content/EditorBlueprintResources/StandardMacros.uasset"
+			]
+		}
+	]
+}
